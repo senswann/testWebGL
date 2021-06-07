@@ -89,7 +89,7 @@ function main() {
   // objects we'll be drawing.
   const buffers = initBuffers(gl);
 
-  const texture = loadTexture(gl, 'https://raw.githubusercontent.com/senswann/testWebGL/main/image/projet-c.png');
+  const texture = loadTexture(gl, 'https://raw.githubusercontent.com/senswann/testWebGL/main/image/UwU.png');
 
   var then = 0;
 
